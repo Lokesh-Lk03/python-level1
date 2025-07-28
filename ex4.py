@@ -1,4 +1,4 @@
-print("Bharathi Supermarket")
+print("lokesh Supermarket")
 print("No.44,Nehru street,puducherry")
 print("-----------------------------")
 print("Bill receipt")
